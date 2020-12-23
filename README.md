@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python faker.py "data/London postcodes.csv" "data/rides.csv" --num_rows=10_000_000
 ```
 
-**Calculate simple some metrics**
+**Calculate a plenty of simple metrics**
 
 ```
 python map_reduce.py
